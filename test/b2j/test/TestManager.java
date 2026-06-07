@@ -10,9 +10,9 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestFactory;
 
 import b2j.wrappers.MainWrapper;
-import de.tum.cit.aet.levenshtein.LevenshteinTest;
-import static de.tum.cit.aet.levenshtein.StructuralLevenshtein.DetailLevel.ONE_FOR_EVERYTHING;
-import static de.tum.cit.aet.levenshtein.StructuralLevenshtein.structuralTestFactory;
+import io.github.valentinherrman.levenshtein.LevenshteinTest;
+import static io.github.valentinherrmann.levenshtein.StructuralLevenshtein.DetailLevel.ONE_FOR_EVERYTHING;
+import static io.github.valentinherrmann.levenshtein.StructuralLevenshtein.structuralTestFactory;
 
 
 
