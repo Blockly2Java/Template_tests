@@ -6,6 +6,7 @@ public class Tests {
     static MainWrapper<?> main = new MainWrapper<>(); 
 
     public static void testMain() {
-        main.main().invoke();
+        fail("Diese Aufgabe wird (derzeit) nicht automatisch überprüft. Überprüfe selbst, ob deine Abgabe korrekt ist!");
+        //main.main().invoke();
     }
 }
